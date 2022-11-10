@@ -14,3 +14,5 @@
 > "Mahatma von gehört"
   
 --- Gandhi
+
+  ![Bild einer Schnecke](schnecke.jpg)
