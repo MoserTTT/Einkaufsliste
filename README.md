@@ -7,8 +7,10 @@
 - Skills:  
     * klettern
     * luegen
-    * Markdown  
+    * Markdown
+    * Falschinformationen verbreiten  
 - geboren am: 80.09.2021
 
-> "Mahatma von gehört"  
+> "Mahatma von gehört"
+  
 --- Gandhi
