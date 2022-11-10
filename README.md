@@ -1,6 +1,6 @@
 # Einkaufsliste
 
-## COOLER LEBENSLAUF
+## UNCOOLER LEBENSLAUF
 
 - Name: **Moser**   
 - Vorname: TTT  
@@ -9,6 +9,8 @@
     * luegen
     * Markdown
     * Falschinformationen verbreiten  
+    * Zitate ausdenken
+    * Deterministische endliche Automaten erstellen
 - geboren am: 80.09.2021
 
 > "Mahatma von gehört"
