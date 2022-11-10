@@ -1,6 +1,6 @@
 # Einkaufsliste
 
-##COOLER LEBENSLAUF
+## COOLER LEBENSLAUF
 
 - Name: **Moser**   
 - Vorname: TTT  
@@ -11,4 +11,4 @@
 - geboren am: 80.09.2021
 
 > "Mahatma von gehört"  
-- Gandhi
+--- Gandhi
